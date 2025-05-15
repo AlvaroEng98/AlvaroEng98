@@ -30,12 +30,6 @@
 <!-- Divider -->
 <hr style="border: none; height: 2px; background: linear-gradient(to right, #00c6ff, #0072ff); margin: 30px 0;" />
 
-<!-- Snake animation -->
-
-
-<!-- Divider -->
-<hr style="border: none; height: 2px; background: linear-gradient(to right, #00c6ff, #0072ff); margin: 30px 0;" />
-
 <!-- Technologies Header -->
 <div id="user-content-toc">
   <ul align="center">
