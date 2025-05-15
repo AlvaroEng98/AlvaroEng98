@@ -31,9 +31,7 @@
 <hr style="border: none; height: 2px; background: linear-gradient(to right, #00c6ff, #0072ff); margin: 30px 0;" />
 
 <!-- Snake animation -->
-<p align="center">
-  <img src="https://github.com/AlvaroEng98/AlvaroEng98/blob/output/github-contribution-grid-snake.svg" alt="snake" />
-</p>
+
 
 <!-- Divider -->
 <hr style="border: none; height: 2px; background: linear-gradient(to right, #00c6ff, #0072ff); margin: 30px 0;" />
@@ -48,7 +46,7 @@
 <!-- Tech stack icons -->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,githubactions,gitlab,aws,ubuntu,jenkins,docker,postgres,androidstudio,bash,django,fastapi,linux,md,nginx,nodejs,postman,py,vscode,kubernetes&perline=10" />
+    <img src="https://skillicons.dev/icons?i=git,githubactions,gitlab,aws,ubuntu,jenkins,docker,postgres,androidstudio,bash,django,fastapi,linux,md,nginx,github,postman,py,vscode,kubernetes&perline=10" />
   </a>
 </p>
 
