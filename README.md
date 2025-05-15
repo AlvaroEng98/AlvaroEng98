@@ -47,7 +47,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,githubactions,gitlab,aws,ubuntu,jenkins,docker,postgres,androidstudio,bash,django,fastapi,linux,md,nginx,nodejs,postman,py,u,vscode,kubernetes&perline=14" />
+    <img src="https://skillicons.dev/icons?i=git,githubactions,gitlab,aws,ubuntu,jenkins,docker,postgres,androidstudio,bash,django,fastapi,linux,md,nginx,nodejs,postman,py,vscode,kubernetes&perline=14" />
   </a>
 </p>
 
